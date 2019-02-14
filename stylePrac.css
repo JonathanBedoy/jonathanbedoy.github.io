@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css?family=Felipa');
+.body-text {
+  color: black;
+  width: 68%;
+  margin-left: 5%;
+  background-color: #D1EAC0;
+  padding: 2%;
+  font-size: 1.5em;
+}
+.body-text2 {
+  color: black;
+  width: 68%;
+  margin-left: 5%;
+  background-color: #A7CFA9;
+  padding: 2%;
+  font-size: 1.5em;
+}
+#my-name{
+  font-family: 'Felipa';
+  font-size: 1.5em;
+
+}
+.title-text{
+  width: 80%;
+  padding: 1%;
+  background-color: #D1EAC0;
+  text-align: center;
+}
+.link-text{
+  width: 30%;
+  padding: 1%;
+  background-color: #D1EAC0;
+  text-align: center;
+}
+ul{
+  list-style-type: square;
+  margin-left: 10%;
+  font-size: 1.5em;
+  background-color: #B0E3B4;
+  width: 56%;
+  padding: 2%;
+}
+a:hover{
+  color: #044F09;
+}
+.links-text{
+  border-style: solid;
+  border-width: 1%;
+  border-color: white;
+  background-color: #82C456;
+  padding: 1%;
+  width: 30%;
+}
+html{
+  background-color: #82C456;
+}
