@@ -63,6 +63,8 @@ a:hover{
 }
 div{
   overflow: hidden;
+  height: 300px;
+  width: 300px;
 }
 html{
   background-color:  #044F09;
